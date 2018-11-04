@@ -1,1 +1,2 @@
-# ClonedWebsites
+# switchy
+## [Website](https://switchy.io/)

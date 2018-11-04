@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="136px" viewBox="0 0 138 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>5A476DCE-E598-4D9B-A67E-B436E760E8EC</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-32.5%" y="-28.1%" width="165.0%" height="166.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-288.000000, -794.000000)">
+            <g id="Group-8" transform="translate(307.000000, 798.000000)">
+                <rect id="Rectangle-7" fill="#B2D4FF" x="13" y="0" width="100" height="100" rx="50"></rect>
+                <g id="Group" filter="url(#filter-1)" transform="translate(0.000000, 10.000000)">
+                    <path d="M99.0866377,60.3615526 C100.811924,64.2506053 99.0408622,68.8456447 95.1512307,70.5709605 L35.6269098,96.9735789 C31.7372783,98.6988947 27.1429614,96.9284474 25.4176748,93.0381053 L0.845235685,37.6378026 C-0.880695611,33.7481053 0.891011226,29.1537105 4.78064272,27.4283947 L64.3049636,1.02577632 C68.1945951,-0.699539474 72.788912,1.07090789 74.5141986,4.96125 L99.0866377,60.3615526 Z" id="Shape" fill="#FAFAFA" fill-rule="nonzero"></path>
+                    <path d="M0.613779079,37.0356184 L74.2227825,4.38485526 C72.3163279,0.903276316 67.9960195,-0.611210526 64.3049636,1.02577632 L4.78064272,27.4283947 C1.09023154,29.0660263 -0.687277834,33.2851842 0.613779079,37.0356184 Z" id="Shape" fill="#90BDE6" fill-rule="nonzero"></path>
+                    <path d="M11.3826362,40.7228684 L29.6812473,81.9782895" id="Shape" stroke="#E7F4FC" stroke-width="2.24" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M22.580236,35.7564605 L40.8788472,77.0112368" id="Shape" stroke="#E7F4FC" stroke-width="2.24" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M33.7778358,30.7894079 L52.076447,72.0441842" id="Shape" stroke="#E7F4FC" stroke-width="2.24" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M44.9760804,25.8223553 L63.2746916,67.0777763" id="Shape" stroke="#E7F4FC" stroke-width="2.24" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M56.1730355,20.8553026 L74.4722914,62.1107237" id="Shape" stroke="#E7F4FC" stroke-width="2.24" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M67.3706353,15.8888947 L85.6698912,57.1436711" id="Shape" stroke="#E7F4FC" stroke-width="2.24" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M12.4277369,43.0800263 L16.087846,51.3313684" id="Shape" stroke="#90BDE6" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M28.854064,49.9006974 L32.514173,58.1513947" id="Shape" stroke="#90BDE6" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M39.0059184,42.5764868 L42.6660274,50.8278289" id="Shape" stroke="#90BDE6" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M55.6933594,49.9858026 L59.3534685,58.2371447" id="Shape" stroke="#90BDE6" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M62.9703809,36.1787632 L66.6298453,44.4301053" id="Shape" stroke="#90BDE6" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M77.8274451,39.4630526 L81.4875542,47.7143947" id="Shape" stroke="#90BDE6" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
